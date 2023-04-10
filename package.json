@@ -10,8 +10,8 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": "16.15.x",
-    "npm": "8.5.x"
+    "node": "16.x.x",
+    "npm": "8.x.x"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.11",
